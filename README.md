@@ -268,7 +268,8 @@ Execute the programs and publish them.
 ```
 
 
-## OUTPUT
+## OUTPUT!
+[Alt text](<sree/mapapp/Screenshot (36).png>)
 ![Alt text](sree/mapapp/picture.ac.png)
 ![Alt text](sree/mapapp/picture.co.png)
 ![Alt text](sree/mapapp/picture.ho.png)
