@@ -269,7 +269,8 @@ Execute the programs and publish them.
 
 
 ## OUTPUT!
-[Alt text](<sree/mapapp/Screenshot (36).png>)
+![Screenshot (36)](https://github.com/LINGARAJA-L/NearMe/assets/129825857/9688eca0-ffa8-43e9-832d-d26acbc9bbb2)
+
 ![Alt text](sree/mapapp/picture.ac.png)
 ![Alt text](sree/mapapp/picture.co.png)
 ![Alt text](sree/mapapp/picture.ho.png)
