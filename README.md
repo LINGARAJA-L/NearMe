@@ -271,10 +271,14 @@ Execute the programs and publish them.
 ## OUTPUT!
 ![Screenshot (36)](https://github.com/LINGARAJA-L/NearMe/assets/129825857/9688eca0-ffa8-43e9-832d-d26acbc9bbb2)
 
-![Alt text](sree/mapapp/picture.ac.png)
-![Alt text](sree/mapapp/picture.co.png)
-![Alt text](sree/mapapp/picture.ho.png)
-![Alt text](sree/mapapp/picture.po.png)
+![picture ac](https://github.com/LINGARAJA-L/NearMe/assets/129825857/60f9389c-985d-49db-942c-362e310c1b40)
+
+![picture co](https://github.com/LINGARAJA-L/NearMe/assets/129825857/2110c1d1-0266-43c3-9498-b6dc022ea97e)
+
+![picture ho](https://github.com/LINGARAJA-L/NearMe/assets/129825857/c0040442-8d44-406c-a8a9-66123cf46271)
+
+![picture po](https://github.com/LINGARAJA-L/NearMe/assets/129825857/2da36422-5a60-40cc-bf01-7618b101e7f1)
+
 
 ## HTML VALIDATOR
 
