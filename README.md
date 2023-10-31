@@ -1,4 +1,6 @@
 # Ex04 Places Around Me
+## DATE: 10.09.23
+
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -278,9 +280,6 @@ Execute the programs and publish them.
 ![picture ho](https://github.com/LINGARAJA-L/NearMe/assets/129825857/c0040442-8d44-406c-a8a9-66123cf46271)
 
 ![picture po](https://github.com/LINGARAJA-L/NearMe/assets/129825857/2da36422-5a60-40cc-bf01-7618b101e7f1)
-
-
-## HTML VALIDATOR
 
 
 ## RESULT
